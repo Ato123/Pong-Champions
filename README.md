@@ -15,3 +15,7 @@ Controls-
 <br>
 <br>
 <br>there might be some extra controls i didn't mention ;)
+<br>
+<h1>--------------------PYTHON STUFF--------------------<\h1>
+<br> external libraries used:
+<br> pygame
