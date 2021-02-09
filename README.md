@@ -2,16 +2,16 @@
 
 my first python game lol
 
-Controls-\n
+Controls-
 
-left pong\n
-up - W\n
-down - S\n
-\n
-right pong\n
-up - I\n
-down - K\n
-\n
-\n
-\n
-there might be some extra controls i didn't mention ;)
+<br>left pong
+<br>up - W
+<br>down - S
+<br>
+<br>right pong
+<br>up - I
+<br>down - K
+<br>
+<br>
+<br>
+<br>there might be some extra controls i didn't mention ;)
